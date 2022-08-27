@@ -1,3 +1,10 @@
+# Ethan Potter's First CS193 Homework
+
+- the TA's are nice and chill
+- some of my friends are also in this class
+- the homework shouldn't be too time consuming
+- most people agreed with me that a tennis ball head is better than a watermelon head
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
